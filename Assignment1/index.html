@@ -16,7 +16,7 @@
             <input id="lunch-menu" type="text" placeholder="list comma separated dishes you usually have for lunch" class="form-control" ng-model="items">
         </div>
         <div class="form-group">
-            <button class="btn btn-default" ng-click="checkItems()">Check If Too Much</button>
+            <button ng-click="checkItems()">Check If Too Much</button>
         </div>
         <div ng-show="!emptyItem && checked" class="alert alert-success">{{message}}</div>
         <div ng-show="emptyItem && !validItem" class="alert alert-danger">Please enter data first</div>
