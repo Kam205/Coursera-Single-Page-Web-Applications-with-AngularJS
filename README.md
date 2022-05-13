@@ -11,6 +11,6 @@ Solution for assignement 2 is completed, and the github web url for accessing th
 
 https://kam205.github.io/Coursera-Single-Page-Web-Applications-with-AngularJS/Assignment2/
 
-Solution for assignement 2 is completed, and the github web url for accessing the application in the web is given below,
+Solution for assignement 3 is completed, and the github web url for accessing the application in the web is given below,
 
 https://kam205.github.io/Coursera-Single-Page-Web-Applications-with-AngularJS/Assignment3/
